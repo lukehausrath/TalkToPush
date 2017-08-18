@@ -1,0 +1,15 @@
+﻿  Game.cpp
+c:\users\luh\documents\visual studio 2017\projects\talktopush\talktopush\game.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\luh\documents\visual studio 2017\projects\talktopush\talktopush\game.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\luh\documents\visual studio 2017\projects\talktopush\talktopush\game.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\luh\documents\visual studio 2017\projects\talktopush\talktopush\game.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\luh\documents\visual studio 2017\projects\talktopush\talktopush\game.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\luh\documents\visual studio 2017\projects\talktopush\talktopush\game.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\luh\documents\visual studio 2017\projects\talktopush\talktopush\game.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  TalkToPush.cpp
+  Player.cpp
+  Generating Code...
+  TalkToPush.vcxproj -> C:\Users\luh\documents\visual studio 2017\Projects\TalkToPush\Debug\TalkToPush.exe
+  TalkToPush.vcxproj -> C:\Users\luh\documents\visual studio 2017\Projects\TalkToPush\Debug\TalkToPush.pdb (Partial PDB)

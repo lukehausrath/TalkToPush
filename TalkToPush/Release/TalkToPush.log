@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  TalkToPush.cpp
+TalkToPush.obj : error LNK2001: unresolved external symbol "public: __thiscall RtMidiIn::RtMidiIn(enum RtMidi::Api,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,unsigned int)" (??0RtMidiIn@@QAE@W4Api@RtMidi@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z)
+C:\Users\luh\documents\visual studio 2017\Projects\TalkToPush\Release\TalkToPush.exe : fatal error LNK1120: 1 unresolved externals
